@@ -27,6 +27,12 @@ patika-spend-analysis/
 ![Gelir vs Harcama](reports/figures/income_scatter.png)
 ![Gelir Grubu](reports/figures/income_group.png)
 
+![1](reports/screnshots/patika1.png)
+![2](reports/screnshots/patika2.png)
+![3](reports/screnshots/patika3.png)
+![4](reports/screnshots/patika4.png)
+![5](reports/screnshots/patika5.png)
+
 ## 🛠 Kullanılan Teknolojiler
 - Python 3.x
 - Pandas
